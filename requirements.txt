@@ -1,34 +1,9 @@
-# Core
+streamlit
 pandas
 numpy
-scikit-learn
-scipy
-
-# Deep Learning
 torch
-torchvision
-
-# Finance Data
+scikit-learn
 yfinance
-
-# Visualization
-matplotlib
-seaborn
 plotly
-
-# Technical Indicators
 ta
-
-# App
-streamlit
-
-# Utilities
 joblib
-tqdm
-pyyaml
-
-# Testing
-pytest
-
-# Model Metrics
-statsmodels
